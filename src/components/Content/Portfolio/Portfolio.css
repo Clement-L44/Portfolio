@@ -1,0 +1,28 @@
+.post__body {
+    padding: 20px 0;
+}
+
+.post__title {
+    font-size: 20px;
+    margin: 10px 0 15px;
+}
+
+.post__title a:hover {
+    color: #19c2c9;
+}
+
+.post__text {
+    margin-bottom: 20px;
+}
+
+.post__meta {
+    text-transform: capitalize;
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+
+.post__meta > span + span:before {
+    content: '-';
+    display: inline-block;
+    margin: 0 5px;
+}
