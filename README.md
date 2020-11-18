@@ -1,5 +1,5 @@
 # portfoliovue
 
-Réalisation de mon Portfolio avec Vue.js comme projet d'initiation à Vue.
+Réalisation de mon Portfolio en HTML, CSS & Javascript.
 
 
